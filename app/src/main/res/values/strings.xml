@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="start">Roll the dice!</string>
+    <string name="next">&#160;is next!</string>
+    <string name="throwTheDice">Roll Dice</string>
+    <string name="addPlayersView">ADD PLAYERS</string>
+    <string name="addPlayer">Add Player</string>
+    <string name="startGame">Start Game</string>
+    <string name="playerName">Name</string>
+    <string name="again">ROLL AGAIN</string>
+</resources>
