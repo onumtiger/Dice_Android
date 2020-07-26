@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping ext="mp3" type="Native" />
+      <mapping pattern="go_back_arrow" type="PLAIN_TEXT" />
+      <removed_mapping ext="mp3" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
